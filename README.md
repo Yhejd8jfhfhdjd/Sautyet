@@ -5,13 +5,12 @@
   <meta name="viewport" 
               content="width=device-width", user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1."
   <meta https-equiv="X-UA-Compatible" content="ie=edge"           
-
 </head>
 <body>
          <div id="main"
                 <h1>Онлайн магазин</h1>
                 <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png">
-                <p></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipsicing elit. Accusantium  ipsum magni, molestias.</p>
                 <button id="buy">Купить</button>
          </div>
 </body>
