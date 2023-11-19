@@ -12,7 +12,7 @@
                 <h1>Онлайн магазин</h1>
                 <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png">
           
-                <button id="buy">Купить</button>
+               <div> <button id="buy">Купить</button>
          </div>
 </body>
 </html>         
